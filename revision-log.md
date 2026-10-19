@@ -1,0 +1,7 @@
+# Revision log
+
+Revise each note 1, 7, 30 and 90 days after writing it (5–10 minutes each): read the heading, say the 60-second explanation out loud, then check the note. Missed something? Fix the note and drop its confidence by 1. Tick a date when that pass is done.
+
+| Note | Written | +1 day | +7 days | +30 days | +90 days | Confidence (1–5) |
+| --- | --- | --- | --- | --- | --- | --- |
+| [08-ai-engineering/tokens-and-context](08-ai-engineering/tokens-and-context.md) | 2026-10-12 | 2026-10-13 | 2026-10-19 | 2026-11-11 | 2027-01-10 | 3 |
