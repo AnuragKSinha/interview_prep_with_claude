@@ -8,3 +8,4 @@ Revise each note 1, 7, 30 and 90 days after writing it (5–10 minutes each): re
 | [02-spring/beans-and-di](02-spring/beans-and-di.md) | 2026-10-22 | 2026-10-23 | 2026-10-29 | 2026-11-21 | 2027-01-20 | 3 |
 | [02-spring/auto-configuration](02-spring/auto-configuration.md) | 2026-10-22 | 2026-10-23 | 2026-10-29 | 2026-11-21 | 2027-01-20 | 3 |
 | [04-distributed/deployment-strategies](04-distributed/deployment-strategies.md) | 2026-10-25 | 2026-10-26 | 2026-11-01 | 2026-11-24 | 2027-01-23 | 3 |
+| [08-ai-engineering/sampling-and-model-choice](08-ai-engineering/sampling-and-model-choice.md) | 2026-10-25 | 2026-10-26 | 2026-11-01 | 2026-11-24 | 2027-01-23 | 3 |
